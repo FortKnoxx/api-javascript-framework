@@ -7,6 +7,7 @@ Welcome ! :wave:
 - [How-to](#how-to):grey_question:
 - [Branch & Merging](#branch-and-merging):seedling:
 - [Pull Request Process](#pull-request-process):bell:
+- [Next Steps](#next-steps):dizzy:
 - [Zephyr Scale Properties Configuration](#zephyr-scale-properties-configuration):newspaper:
 
 ## About📝
@@ -45,6 +46,10 @@ Read more here:
 4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
    do not have permission to do that, you may request the second reviewer to merge it for you;a
 
+## Next Steps💫
+1. Create MVP
+2. Implement Contract-based testing
+4. Implement BDD / Cucumber structuring - (Not yet finalised)
 
 ## Zephyr Scale Properties configuration📰
 
