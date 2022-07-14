@@ -10,6 +10,10 @@ jobs:
     steps:
      - uses: actions/checkout@v2
        name: Clone project
+       
+     - name: install mocha
+       run: |
+        npm install --save-dev mocha
     
      - name: run the tests
        run: | 
